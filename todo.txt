@@ -1,0 +1,21 @@
+✓ get-text based on dump.
+✓ image tag
+✓ font size of headings
+✓ Todo marker in headings
+✓ save/load
+✓ copy/paste
+✓ kanban focuses header
+✓ command line support
+✓ show/hide kanban board button
+✓ paste image
+✓ search/replace
+☐ fix indent/dedent
+☐ link tag
+☐ internal-links tag
+☐ tables
+
+
+
+
+
+
